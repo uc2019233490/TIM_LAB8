@@ -15,7 +15,8 @@ class RtpPacket:
 		#--------------
 		# TO COMPLETE
 		#--------------
-		# Fill the header bytearray with RTP header fields
+		#Fill the header bytearray with RTP header fields
+  
 		
 		# header[0] = ...
 		# ...
