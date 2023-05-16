@@ -9,11 +9,13 @@ CACHE_FILE_NAME = "cache-"
 CACHE_FILE_EXT = ".jpg"
 
 class Client:
+    # Initiation..
 	INIT = 0
 	READY = 1
 	PLAYING = 2
 	state = INIT
 	
+	# RTSP States
 	SETUP = 0
 	PLAY = 1
 	PAUSE = 2
