@@ -3,8 +3,11 @@
 
 
 Trabalho prático da disciplina Transmissão de Informação Multimédia da Universidade de Coimbra.
+
 Objetivo: adquirir um conhecimento mais aprofundado sobre o protocolo de transporte em tempo real (RTP) e o protocolo de transmissãao em tempo real (RTSP). 
+
 Baseado no código do autor do livro ”Computer Networking: A Top-Down Approach” de Jim Kurose.
+
 Completou-se o código que implementa funcionalidades de streaming básicas usando python de modo a ver os protocolos a estudar a funcionar.
 
 
